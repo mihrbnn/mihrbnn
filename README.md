@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on <strong>Frontend Development Projects</strong> 
 - 🌱 I’m currently learning <strong>React, Redux</strong>
-- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong> and meet successful people all over the world
+- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong> and meet inspiring people all over the world
 - ⚡ Fun fact: I love to discover underrated music, don't hesitate to share with me
 
 
