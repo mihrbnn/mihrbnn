@@ -18,7 +18,7 @@
 
 <p align="start">
 	<a href="https://www.linkedin.com/in/mihribankilickan/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
-	<a href="https://www.instagram.com/_nikunjjsharma/"><img src="https://img.icons8.com/fluency/48/000000/medium-logo.png"/></a>
+	<a href="https://medium.com/@mihkilickan"><img src="https://img.icons8.com/fluency/48/000000/medium-logo.png"/></a>
 	<a href="https://open.spotify.com/user/yenidenfresh?si=aec71676be064dfb"><img src="https://img.icons8.com/fluency/48/000000/spotify.png"/></a>
 </p>
 
