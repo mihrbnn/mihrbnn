@@ -6,9 +6,8 @@
 
 
 - 🔭 I’m currently working on <strong>Frontend Development Projects</strong> 
-- 🌱 I’m currently learning <strong>React, Redux</strong>
+- 🌱 I’m currently developing projects with <strong>React, Redux</strong>
 - 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong> and meet inspiring people all over the world
-- ⚡ Fun fact: I love to discover underrated music, don't hesitate to share with me
 
 
 ### Tools I work upon  🛠
@@ -19,7 +18,6 @@
 <p align="start">
 	<a href="https://www.linkedin.com/in/mihribankilickan/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
 	<a href="https://medium.com/@mihkilickan"><img src="https://img.icons8.com/fluency/48/000000/medium-logo.png"/></a>
-	<a href="https://open.spotify.com/user/yenidenfresh?si=aec71676be064dfb"><img src="https://img.icons8.com/fluency/48/000000/spotify.png"/></a>
 </p>
 
 
