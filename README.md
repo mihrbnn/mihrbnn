@@ -20,6 +20,5 @@
 	<a href="https://medium.com/@mihkilickan"><img src="https://img.icons8.com/fluency/48/000000/medium-logo.png"/></a>
 </p>
 
-
-
+ <img src="https://www.codewars.com/users/mihrbnn/badges/small">   
 
