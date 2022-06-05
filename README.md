@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on <strong>Frontend Development Projects</strong> 
 - 🌱 I’m currently developing projects with <strong>React, Redux</strong>
-- 🔍 I’m looking to collaborate on <strong>Front-End Web Dev Projects</strong> and meet inspiring people all over the world
 
 
 ### Tools I work upon  🛠
@@ -17,7 +16,6 @@
 
 <p align="start">
 	<a href="https://www.linkedin.com/in/mihribankilickan/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a>
-	<a href="https://medium.com/@mihkilickan"><img src="https://img.icons8.com/fluency/48/000000/medium-logo.png"/></a>
 </p>
 
  <img src="https://www.codewars.com/users/mihrbnn/badges/small">   
